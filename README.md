@@ -13,3 +13,7 @@ Wanna know how to disable forced extensions?
 # RESOURCES:
 
 https://k-kscripts.github.io/ChromeOS-Utilities/ or https://3kh0.github.io/ext-remover
+
+# But don't wanna have to search endlessly for Tools, Utilities and Exploits for ChromeOS? No Fear
+
+- [ext-remover](ext-remover.md)
