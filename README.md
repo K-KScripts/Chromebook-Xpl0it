@@ -17,3 +17,7 @@ https://k-kscripts.github.io/ChromeOS-Utilities/ or https://3kh0.github.io/ext-r
 # But don't wanna have to search endlessly for Tools, Utilities and Exploits for ChromeOS? No Fear
 
 - [ext-remover](ext-remover.md)
+
+# Method 1.
+
+# Rigtools-V3
