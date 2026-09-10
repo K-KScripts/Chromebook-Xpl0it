@@ -9,3 +9,7 @@ Wanna know how to disable forced extensions?
 # THESE ☝️ are forced extensions
 
 # And this tool can Disable, Forced installed Extensions on School Chromebooks
+
+# RESOURCES:
+
+https://k-kscripts.github.io/ChromeOS-Utilities/ or https://3kh0.github.io/ext-remover
